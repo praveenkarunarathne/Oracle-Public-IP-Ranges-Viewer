@@ -45,6 +45,7 @@ A modern, high-performance web dashboard for visualizing and exploring **Oracle 
 ## 📷 Demo
 
 ![Dashboard](screenshots/dashboard.png)
+![IP Ranges](screenshots/ipranges.png)
 
 ---
 
